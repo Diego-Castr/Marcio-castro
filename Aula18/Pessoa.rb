@@ -1,4 +1,4 @@
 class pessoa
     attr_accessor :nome
-    attr_accessor :endereço
+    attr_accessor :endereco
 end
