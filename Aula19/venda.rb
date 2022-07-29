@@ -5,7 +5,7 @@ class Venda
 	include Pagamento
 	include Frete
 
-	PRODUTOS = {"PS3" => 900.00, "PS4" => 1600.00 }
+	PRODUTOS = {"PS3" => 900.00, "PS4" => 1600.00}
 
   def imprimir_produtos
 	  puts "--- Produtos ---"
